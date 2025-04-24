@@ -1,0 +1,7 @@
+pytesseract
+pillow
+PyMuPDF
+
+pytesseract==0.3.10
+pillow==10.2.0
+PyMuPDF==1.23.22
